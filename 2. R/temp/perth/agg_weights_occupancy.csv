@@ -1,0 +1,11 @@
+mean,model,dataset,target
+0.09250582754945202,GRU,perth,occupancy
+0.09618501283430632,GRU_error,perth,occupancy
+0.10613205762799456,NHPP_RF_MR,perth,occupancy
+0.07106695964933467,NHPP_RF_MR_err,perth,occupancy
+0.10355323122637784,NHPP_GAM_MR,perth,occupancy
+0.06652871377005061,NHPP_GAM_MR_err,perth,occupancy
+0.09647388073586052,SARIMA_MM,perth,occupancy
+0.097781947046452,SARIMA_MM_err,perth,occupancy
+0.14831263072845863,GAM,perth,occupancy
+0.12145973883171285,persistence,perth,occupancy

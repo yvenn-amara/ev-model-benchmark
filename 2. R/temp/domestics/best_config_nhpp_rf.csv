@@ -1,0 +1,2 @@
+"fmla","num.trees","mtry","terms","loss","res_mean","res_var","bound_inf","bound_sup","test"
+"smooth_event ~ s_mod + s_tod32 + Day + winter + s_trend + agglag_D1_adj + agglag_D7",500,2,7,0.0742957241489338,-2.50932191541419,22.5334947143035,-4.4711342190604,4.4711342190604,TRUE

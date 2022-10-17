@@ -1,0 +1,11 @@
+mean,model,dataset,target
+0.07954753393789914,GRU,palo_alto,load
+0.1354140878184731,GRU_error,palo_alto,load
+0.06911297381579337,NHPP_RF_MR,palo_alto,load
+0.09553243927797897,NHPP_RF_MR_err,palo_alto,load
+0.05145214339983324,NHPP_GAM_MR,palo_alto,load
+0.08130104676395569,NHPP_GAM_MR_err,palo_alto,load
+0.05120909325375134,SARIMA_MM,palo_alto,load
+0.09210499078538006,SARIMA_MM_err,palo_alto,load
+0.25772126996948136,GAM,palo_alto,load
+0.0866044209774537,persistence,palo_alto,load

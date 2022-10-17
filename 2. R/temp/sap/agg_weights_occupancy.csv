@@ -1,0 +1,11 @@
+mean,model,dataset,target
+0.055917888711776546,GRU,sap,occupancy
+0.10728962807235672,GRU_error,sap,occupancy
+0.04986833534253595,NHPP_RF_MR,sap,occupancy
+0.13708728720492608,NHPP_RF_MR_err,sap,occupancy
+0.03947975338570436,NHPP_GAM_MR,sap,occupancy
+0.10285270633758734,NHPP_GAM_MR_err,sap,occupancy
+0.09108124577010641,SARIMA_MM,sap,occupancy
+0.12991325995720973,SARIMA_MM_err,sap,occupancy
+0.23221513195526597,GAM,sap,occupancy
+0.05429476326253094,persistence,sap,occupancy

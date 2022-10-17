@@ -1,0 +1,11 @@
+mean,model,dataset,target
+0.09149464220464848,GRU,palo_alto,occupancy
+0.12190328215959052,GRU_error,palo_alto,occupancy
+0.06896617884357892,NHPP_RF_MR,palo_alto,occupancy
+0.07434348720976436,NHPP_RF_MR_err,palo_alto,occupancy
+0.05111319473372004,NHPP_GAM_MR,palo_alto,occupancy
+0.05958711397658711,NHPP_GAM_MR_err,palo_alto,occupancy
+0.07130605585034004,SARIMA_MM,palo_alto,occupancy
+0.0992395830856764,SARIMA_MM_err,palo_alto,occupancy
+0.27011228531300946,GAM,palo_alto,occupancy
+0.09193417662308473,persistence,palo_alto,occupancy

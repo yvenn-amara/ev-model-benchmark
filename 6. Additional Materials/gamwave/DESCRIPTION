@@ -1,0 +1,14 @@
+Package: gamwave
+Type: Package
+Title: gamwave: fitting additive models by combining spline and wavelet basis
+    projections
+Version: 0.8
+Date: 2017-10-20
+Author: Anestis Antoniadis and Yannig Goude
+Maintainer: <yannig.goude@edf.fr>
+Description: this package implement additive models fitting combining spline and
+    wavelet basis projection
+License: LGPL
+Depends:
+    splines,wavethresh,mgcv,nlme
+RoxygenNote: 5.0.1

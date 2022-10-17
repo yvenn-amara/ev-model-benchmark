@@ -1,0 +1,11 @@
+mean,model,dataset,target
+0.09534020269248958,GRU,boulder,occupancy
+0.08994385316554597,GRU_error,boulder,occupancy
+0.05611358698819951,NHPP_RF_MR,boulder,occupancy
+0.08357623147764591,NHPP_RF_MR_err,boulder,occupancy
+0.0601088932995289,NHPP_GAM_MR,boulder,occupancy
+0.0854910717001885,NHPP_GAM_MR_err,boulder,occupancy
+0.0977921095272821,SARIMA_MM,boulder,occupancy
+0.09872377819921929,SARIMA_MM_err,boulder,occupancy
+0.20816485755894373,GAM,boulder,occupancy
+0.12474541539095653,persistence,boulder,occupancy

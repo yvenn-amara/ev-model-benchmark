@@ -1,0 +1,2 @@
+"fmla","loss","res_mean","res_var","bound_inf","bound_sup","test"
+"event ~ s(s_mod, k = 30, bs = ""cc"") + s(s_tod32, bs = ""cc"")",5.56629675882175,-2.89883607130374,22.5886482109292,-4.4820778693548,4.4820778693548,TRUE

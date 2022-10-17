@@ -1,0 +1,11 @@
+mean,model,dataset,target
+0.17833951661701328,GRU,dundee,occupancy
+0.17135617553588894,GRU_error,dundee,occupancy
+0.04339526855465086,NHPP_RF_MR,dundee,occupancy
+0.05475108829847201,NHPP_RF_MR_err,dundee,occupancy
+0.032126224015092755,NHPP_GAM_MR,dundee,occupancy
+0.04664022633533763,NHPP_GAM_MR_err,dundee,occupancy
+0.08864488851052386,SARIMA_MM,dundee,occupancy
+0.08622010249615313,SARIMA_MM_err,dundee,occupancy
+0.27442537858480504,GAM,dundee,occupancy
+0.024101131052062495,persistence,dundee,occupancy

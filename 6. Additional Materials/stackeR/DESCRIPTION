@@ -1,0 +1,13 @@
+Package: stackeR
+Type: Package
+Title: stacking methods applied to energy forecasting
+Version: 0.5
+Date: 2016-07-26
+Author: Yannig Goude
+Maintainer: <yannig.goude@edf.fr>
+Description: this package implement stacking functions for energy forecasting related to the paper "Ensemble Methods for Energy Forecasting", Conference: ISBIS
+License: LGPL
+Depends: caret
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2017-07-06 09:25:56 UTC; yannig

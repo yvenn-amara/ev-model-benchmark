@@ -1,0 +1,11 @@
+mean,model,dataset,target
+0.10249004058610518,GRU,domestics,occupancy
+0.08093178718998684,GRU_error,domestics,occupancy
+0.07556290267217781,NHPP_RF_MR,domestics,occupancy
+0.11667299994288247,NHPP_RF_MR_err,domestics,occupancy
+0.07032798050033975,NHPP_GAM_MR,domestics,occupancy
+0.07351940484601498,NHPP_GAM_MR_err,domestics,occupancy
+0.16427843514692506,SARIMA_MM,domestics,occupancy
+0.14752760208643992,SARIMA_MM_err,domestics,occupancy
+0.0730208140706839,GAM,domestics,occupancy
+0.09566803295844412,persistence,domestics,occupancy

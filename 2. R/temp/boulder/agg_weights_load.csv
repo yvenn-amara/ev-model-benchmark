@@ -1,0 +1,11 @@
+mean,model,dataset,target
+0.11530734698090278,GRU,boulder,load
+0.12664381375060565,GRU_error,boulder,load
+0.07943893777863396,NHPP_RF_MR,boulder,load
+0.07074608023708844,NHPP_RF_MR_err,boulder,load
+0.07062910717709092,NHPP_GAM_MR,boulder,load
+0.06589139441067336,NHPP_GAM_MR_err,boulder,load
+0.07481267272445906,SARIMA_MM,boulder,load
+0.08693544917865957,SARIMA_MM_err,boulder,load
+0.19698716833616928,GAM,boulder,load
+0.11260802942571697,persistence,boulder,load

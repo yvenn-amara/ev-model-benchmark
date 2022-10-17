@@ -1,0 +1,11 @@
+mean,model,dataset,target
+0.08678008624754581,GRU,paris,occupancy
+0.12867813841454254,GRU_error,paris,occupancy
+0.061004695519241293,NHPP_RF_MR,paris,occupancy
+0.08936160727101226,NHPP_RF_MR_err,paris,occupancy
+0.04980170000584184,NHPP_GAM_MR,paris,occupancy
+0.0629474158299967,NHPP_GAM_MR_err,paris,occupancy
+0.0977897182850884,SARIMA_MM,paris,occupancy
+0.12603473507354848,SARIMA_MM_err,paris,occupancy
+0.23824893455692742,GAM,paris,occupancy
+0.05935296879625528,persistence,paris,occupancy
